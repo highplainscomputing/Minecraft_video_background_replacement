@@ -28,7 +28,7 @@ pip install numpy opencv-python
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/minecraft-background-replacement.git
+git clone https://github.com/highplainscomputing/Minecraft_video_background_replacement.git
 ```
 2. Change to the project directory:
 
