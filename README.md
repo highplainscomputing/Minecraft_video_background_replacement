@@ -2,13 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This Computer Vision Application is designed to process Minecraft videos and replace the background of the character with a provided image. It uses Python, OpenCV, and NumPy to achieve this functionality. Whether you want to create unique Minecraft content or enhance your gameplay videos, this application can help you achieve the desired effects.
