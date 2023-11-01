@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Getting Started](#installation)
 - [Usage](#usage)
 
 ## Introduction
