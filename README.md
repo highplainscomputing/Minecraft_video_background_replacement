@@ -30,12 +30,12 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/highplainscomputing/Minecraft_video_background_replacement.git
 ```
-3. Change to the project directory:
+4. Change to the project directory:
 
 ```bash
 cd minecraft-background-replacement
 ```
-4.Run the application.
+5.Run the application.
 ```bash
 python minecraft_BG_replacement.py
 ```
